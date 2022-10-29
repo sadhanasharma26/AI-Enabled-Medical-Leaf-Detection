@@ -25,6 +25,9 @@ We've divided the project in two parts for two semesters:
 * **Language Used:** Python
 * **IDE Used:** Jupyter Notebook
 
+# Status Of Project
+* **IN PROGRESS**
+
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
 * [@mananrughani](https://github.com/only-mr)
