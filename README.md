@@ -31,7 +31,6 @@ We've divided the project in two parts for two semesters:
 * [@peehubajaj](https://www.linkedin.com/in/peehu-bajaj/)
 
 # License
-
-
+* [MIT]()
 
 
