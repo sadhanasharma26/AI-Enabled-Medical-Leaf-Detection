@@ -22,8 +22,8 @@ We've divided the project in two parts for two semesters:
 * Gives the information about the leaf if it has any special precautions to be taken in the case of pregnant/breastfeeding women to avoid mishaps etc.
 
 # Tech Stack
-* Language Used: Python
-* IDE Used: Jupyter Notebook
+* **Language Used:** Python
+* **IDE Used:** Jupyter Notebook
 
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
