@@ -12,9 +12,7 @@ We've divided the project in two parts for two semesters:
 # Index
 * Features
 * Tech Stack
-* Deployment
 * Authors
-* Project Preview
 * License
 
 # Features
@@ -27,7 +25,13 @@ We've divided the project in two parts for two semesters:
 * Language Used: Python
 * IDE Used: Jupyter Notebook
 
-# Deployment
-* Part 1 : <br/>
+# Authors
+* [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
+* [@mananrughani](https://github.com/only-mr)
+* [@peehubajaj](https://www.linkedin.com/in/peehu-bajaj/)
+
+# License
+
+
 
 
