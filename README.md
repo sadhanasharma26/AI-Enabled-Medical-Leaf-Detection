@@ -26,7 +26,9 @@ We've divided the project in two parts for two semesters:
 * **IDE Used:** Jupyter Notebook
 
 # Status Of Project
-* **IN PROGRESS**
+```diff
+In progress
+```
 
 # Authors
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
